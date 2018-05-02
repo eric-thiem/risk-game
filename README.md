@@ -1,2 +1,2 @@
 # risk-game
-Risk Game
+A clone of the popular board game Risk developed in Java
